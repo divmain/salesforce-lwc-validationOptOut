@@ -10,13 +10,13 @@
         "build": "NODE_ENV=production rollup -c"
     },
     "dependencies": {
-        "@lwc/engine-server": "2.40.1-lbc@lbc-avante-garde",
-        "@lwc/rollup-plugin": "2.40.1-lbc@lbc-avante-garde",
+        "@lwc/engine-server": "2.40.1-lbc",
+        "@lwc/rollup-plugin": "2.40.1-lbc",
         "@rollup/plugin-alias": "^4.0.2",
         "@rollup/plugin-replace": "^5.0.2",
         "express": "^4.18.2",
         "html-entities": "^2.3.3",
-        "lwc": "2.40.1-lbc@lbc-avante-garde",
+        "lwc": "2.40.1-lbc",
         "prettier": "^2.8.3",
         "rollup": "^3.7.5",
         "rollup-plugin-livereload": "^2.0.5",
